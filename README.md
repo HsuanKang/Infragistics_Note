@@ -25,3 +25,4 @@
 <a href="https://docs.microsoft.com/zh-tw/dotnet/api/system.environment.newline?view=netcore-3.1">Environment.NewLine 換行</a><br/>
 <a href="https://www.itread01.com/content/1545667219.html">UltraGridColumn.CellActivation</a><br/>
 <a href="https://dotblogs.com.tw/abbee/2012/08/22/74207">DataSet 序列化傳送</a><br/>
+<a href="https://docs.microsoft.com/zh-tw/dotnet/api/system.string.format?view=netcore-3.1#System_String_Format_System_String_System_Object_System_Object_">String.Format()</a><br/>
