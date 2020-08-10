@@ -27,3 +27,7 @@
 <a href="https://dotblogs.com.tw/abbee/2012/08/22/74207">DataSet 序列化傳送</a><br/>
 <a href="https://docs.microsoft.com/zh-tw/dotnet/api/system.string.format?view=netcore-3.1#System_String_Format_System_String_System_Object_System_Object_">String.Format()</a><br/>
 <a href="https://docs.microsoft.com/zh-tw/dotnet/api/system.string.isnullorempty?view=netcore-3.1">IsNullOrEmpty() // 空字串 or Null -> True // string.Empty</a>
+
+# Crystal Report
+
+<a href="https://www.tutorialspoint.com/crystal_reports/crystal_reports_creating_variables.htm">Defining  Variable</a><br/>
