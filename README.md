@@ -15,8 +15,8 @@
 
 1. <b>DB</b> -> .xsd / .cs / ModelVDB / ViewVDB
 2. <b>PO</b> -> interface / SQL / cmd
-3. <b>CTL</b> -> VDB 轉換 / PO 委派 / <ModelVDB>轉型<ViewVDB>
-4. <b>PXY</b> -> 執行CTL裡的Method
+3. <b>CTL</b> -> 實作 interface / 建構解構 / VDB 轉換 / PO 委派 / <ModelVDB>轉型<ViewVDB>
+4. <b>PXY</b> -> 實作Ctl / 執行CTL裡的Method
 5. <b>UI</b> -> add 事件 / add 屬性 -> 驗證功能
 
 # c#
@@ -26,8 +26,9 @@
 <a href="https://www.itread01.com/content/1545667219.html">UltraGridColumn.CellActivation</a><br/>
 <a href="https://dotblogs.com.tw/abbee/2012/08/22/74207">DataSet 序列化傳送</a><br/>
 <a href="https://docs.microsoft.com/zh-tw/dotnet/api/system.string.format?view=netcore-3.1#System_String_Format_System_String_System_Object_System_Object_">String.Format()</a><br/>
-<a href="https://docs.microsoft.com/zh-tw/dotnet/api/system.string.isnullorempty?view=netcore-3.1">IsNullOrEmpty() // 空字串 or Null -> True // string.Empty</a>
+<a href="https://docs.microsoft.com/zh-tw/dotnet/api/system.string.isnullorempty?view=netcore-3.1">IsNullOrEmpty() // 空字串 or Null -> True // string.Empty</a><br/>
 
 # Crystal Report
 
 <a href="https://www.tutorialspoint.com/crystal_reports/crystal_reports_creating_variables.htm">Defining  Variable</a><br/>
+<a href="https://help.sap.com/viewer/5e655af038844318b5686fe80d91af27/4.1.10/zh-TW/4786f5d86e041014910aba7db0e91070.html">加總、基本語法</a><br/>
