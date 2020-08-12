@@ -30,5 +30,5 @@
 
 # Crystal Report
 
-<a href="https://www.tutorialspoint.com/crystal_reports/crystal_reports_creating_variables.htm">Defining  Variable</a><br/>
+<a href="https://www.itread01.com/content/1546470727.html">Defining  Variable</a><br/>
 <a href="https://help.sap.com/viewer/5e655af038844318b5686fe80d91af27/4.1.10/zh-TW/4786f5d86e041014910aba7db0e91070.html">加總、基本語法</a><br/>
