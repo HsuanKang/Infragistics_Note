@@ -33,3 +33,4 @@ str(變數).PadRight(Left)(int , "###") ->填補字串</br>
 
 <a href="https://www.itread01.com/content/1546470727.html">Defining  Variable</a><br/>
 <a href="https://help.sap.com/viewer/5e655af038844318b5686fe80d91af27/4.1.10/zh-TW/4786f5d86e041014910aba7db0e91070.html">加總、基本語法</a><br/>
+<a href="http://markshutest.blogspot.com/2018/04/crystal-report-1.html">常用語法</a><br/>
