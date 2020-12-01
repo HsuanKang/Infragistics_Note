@@ -28,6 +28,8 @@
 <a href="https://docs.microsoft.com/zh-tw/dotnet/api/system.string.format?view=netcore-3.1#System_String_Format_System_String_System_Object_System_Object_">String.Format()</a><br/>
 <a href="https://docs.microsoft.com/zh-tw/dotnet/api/system.string.isnullorempty?view=netcore-3.1">IsNullOrEmpty() // 空字串 or Null -> True // string.Empty</a><br/>
 str(變數).PadRight(Left)(int , "###") ->填補字串</br>
+<a href="https://dotblogs.com.tw/stanley14/2017/03/27/string_split_merge">SQL Server 多筆資料列轉字串</a><br/>
+<a href="https://dotblogs.com.tw/chichiBlog/2017/10/16/155514">(搭配)SqlDataReader</a><br/>
 
 # Crystal Report
 
